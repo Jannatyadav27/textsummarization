@@ -20,3 +20,6 @@ This project is a Streamlit-based web application that allows users to upload a 
    ```bash
    git clone https://github.com/your-username/pdf-summarizer.git
    cd pdf-summarizer
+   pip install -r requirements.txt
+   python -m streamlit run main.py
+
